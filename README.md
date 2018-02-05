@@ -9,4 +9,32 @@ Listed below are the items found in the asset and preview folders:
 3. Hearts Background (heartbg)
 4. Valentine's Chocolate Box (chocolatebox)
 5. Valentine's Note (valentinenote)
-6. Stranger Things Valentine Note (youran11)
+6. Stranger Things Valentine Note (yourean11)
+
+<strong>Created but not uploaded Stickers </strong>
+Pointed stud cuffs
+Pirate hat
+Eyepatch
+Harry Potter scarves
+Star background
+Call bell
+
+<strong>Meme ideas </strong>
+Cat-breading
+Cucumber behind cat
+Bell with plate (and treat?)
+Box that's too small
+Keyboard Cat
+Science Cat
+Business Cat (suit, red tie, coffee mug)
+
+
+<strong>Ideas yet to try</strong>
+Food bowl
+Rugs
+Pillow
+Box
+Kitty toys:
+    feathers on a string
+    catnip mice
+    cat tree
