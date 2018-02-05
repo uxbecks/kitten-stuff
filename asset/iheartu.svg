@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" width="3258.55" height="3005.45">
+	<g id="dp_dp001" transform="matrix(1,0,0,1,-4090.45,-2504.52)">
+		<path id="dp_path002" fill="#e75f5a" fill-rule="evenodd" stroke="#31323d" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" d="M 4762.72,4438.25 L 5086.26,4768.25 L 4439.18,4768.25 Z "/>
+		<path id="dp_path003" fill="#e75f5a" fill-rule="evenodd" stroke="#31323d" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" d="M 4440.74,4770.25 L 5086.25,4770.25 L 5086.25,5131.33 L 4440.74,5131.33 Z "/>
+		<path id="dp_path004" fill="white" fill-rule="evenodd" stroke="#31323d" stroke-width="10.6667" stroke-linecap="round" d="M 4486.96,4952.54 L 4486.96,4499.03 L 5036.04,4499.03 L 5036.04,4952.54 Z "/>
+		<path id="dp_path005" fill="#31323d" fill-rule="evenodd" fill-opacity="0.25098" d="M 4714.92,4945.08 L 4845.08,4945.08 L 4845.08,4995.87 L 4714.92,4995.87 Z "/>
+		<path id="dp_path006" fill="#e75f5a" fill-rule="evenodd" stroke="#31323d" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" d="M 5083.8,4766.29 C 4892.8,4766.29 4737.4,4927.58 4735.4,5127.9 L 5083.8,5131.73 Z "/>
+	</g>
+	<text id="dp_text001" transform="matrix(0.996821,-0.079677,0.079677,0.996821,470.028,2216.35)" xml:space="preserve" fill="#e75f5a" font-family="Undercurrent BTN" font-size="187" font-weight="700" x="0" y="0">I</text>
+	<text id="dp_text002" transform="matrix(0.944232,0,0,1,575.171,2362.37)" xml:space="preserve" fill="#e75f5a" font-family="Undercurrent BTN" font-size="180" font-weight="700" x="0" y="0">U</text>
+	<image id="dp_image009" transform="matrix(1,0,0,1,-4085.45,-2501.45)" fill="none" x="4765.09" y="4562.18" width="201.819" height="162.545" xlink:href="DrawE33F_images/DrawE33F_001.png"/>
+	<g id="dp_dp010" transform="matrix(1,0,0,1,-4090.45,-2504.52)">
+		<path id="dp_path011" fill="#31323d" fill-rule="evenodd" fill-opacity="0.501961" d="M 4786.57,5117.83 L 4459.61,5117.83 C 4459.61,5117.83 4459.61,5117.83 4459.61,5117.83 L 4459.61,4771.25 L 4442.4,4771.25 L 4442.4,5117.83 C 4442.4,5125.81 4448.87,5132.28 4456.84,5132.28 L 4786.57,5132.28 Z "/>
+		<path id="dp_path012" fill="#e75f5a" fill-rule="evenodd" stroke="#31323d" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" d="M 4439.4,4768.29 C 4630.4,4768.29 4785.8,4929.58 4787.8,5129.9 L 4439.4,5133.73 Z "/>
+	</g>
+</svg>
