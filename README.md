@@ -34,7 +34,4 @@ Listed below are the items found in the asset and preview folders:
 2. Rugs
 3. Pillow
 4. Box
-5. Kitty toys:
-    a. feathers on a string
-    b. catnip mice
-    c. cat tree
+5. Kitty toys: feathers on a string, catnip mice, cat tree
