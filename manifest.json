@@ -7,33 +7,33 @@
     "listing": [
         {
             "image": "candyhearts",
-            "contract": "",
-            "category": "seasonal",
+            "contract": "ItemCandyHearts",
+            "category": "valentines",
             "displayName": "Candy Hearts"
         },{
             "image": "heartsbg",
-            "contract": "",
-            "category": "seasonal",
+            "contract": "ItemHeartsBG",
+            "category": "valentines",
             "displayName": "Surrounded by Love"
         },{
             "image": "iheartu",
-            "contract": "",
-            "category": "seasonal",
+            "contract": "ItemValentineNote",
+            "category": "valentines",
             "displayName": "Valentine's Note"
         },{
             "image": "yourean11",
-            "contract": "",
-            "category": "seasonal",
+            "contract": "ItemStrangeLove",
+            "category": "valentines",
             "displayName": "Strange Love"
         },{
             "image": "valenkitty",
-            "contract": "",
-            "category": "seasonal",
+            "contract": "ItemValentineKitty",
+            "category": "valentines",
             "displayName": "Valentine's Kitty"
         },{
             "image": "chocolatebox",
-            "contract": "",
-            "category": "seasonal",
+            "contract": "ItemChocoBox",
+            "category": "valentines",
             "displayName": "Valentine's Chocolate"
         }
     ]
