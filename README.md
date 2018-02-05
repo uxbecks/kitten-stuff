@@ -12,25 +12,25 @@ Listed below are the items found in the asset and preview folders:
 6. Stranger Things Valentine Note (yourean11)
 
 <strong>Created but not uploaded Stickers </strong>
-Pointed stud cuffs
+<ul>Pointed stud cuffs
 Pirate hat
 Eyepatch
 Harry Potter scarves
 Star background
-Call bell
+Call bell</ul>
 
 <strong>Meme ideas </strong>
-Cat-breading
+<ul>Cat-breading
 Cucumber behind cat
 Bell with plate (and treat?)
 Box that's too small
 Keyboard Cat
 Science Cat
-Business Cat (suit, red tie, coffee mug)
+Business Cat (suit, red tie, coffee mug)</ul>
 
 
 <strong>Ideas yet to try</strong>
-Food bowl
+<ul>Food bowl
 Rugs
 Pillow
 Box
@@ -38,3 +38,4 @@ Kitty toys:
     feathers on a string
     catnip mice
     cat tree
+</ul>
