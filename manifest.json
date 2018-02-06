@@ -16,15 +16,10 @@
             "category": "valentines",
             "displayName": "Surrounded by Love"
         },{
-            "image": "iheartu",
+            "image": "valentinenote",
             "contract": "ItemValentineNote",
             "category": "valentines",
             "displayName": "Valentine's Note"
-        },{
-            "image": "yourean11",
-            "contract": "ItemStrangeLove",
-            "category": "valentines",
-            "displayName": "Strange Love"
         },{
             "image": "valenkitty",
             "contract": "ItemValentineKitty",
