@@ -30,6 +30,16 @@
             "contract": "ItemChocoBox",
             "category": "valentines",
             "displayName": "Valentine's Chocolate"
+        },{
+            "image": "iheartu",
+            "contract": "ItemIHeartU",
+            "category": "valentines",
+            "displayName": "I Heart U"
+        },{
+            "image": "yourean11",
+            "contract": "ItemStrangerLove",
+            "category": "valentines",
+            "displayName": "Stranger Love"
         }
     ]
 }
