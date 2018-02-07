@@ -36,10 +36,10 @@
             "category": "valentines",
             "displayName": "I Heart U"
         },{
-            "image": "yourean11",
-            "contract": "ItemStrangerLove",
-            "category": "valentines",
-            "displayName": "Stranger Love"
+            "image": "ethblingblue",
+            "contract": "ItemEthBlingRingBlue",
+            "category": "accessories",
+            "displayName": "ETH Bling Ring"
         }
     ]
 }
