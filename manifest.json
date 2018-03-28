@@ -16,30 +16,40 @@
             "category": "valentines",
             "displayName": "Surrounded by Love"
         },{
-            "image": "valentinenote",
-            "contract": "ItemValentineNote",
-            "category": "valentines",
-            "displayName": "Valentine's Note"
+            "image": "cucumber",
+            "contract": "ItemCucumber",
+            "category": "memes",
+            "displayName": "Cucumbers Behind Cats"
         },{
-            "image": "valenkitty",
-            "contract": "ItemValentineKitty",
-            "category": "valentines",
-            "displayName": "Valentine's Kitty"
+            "image": "chemistrycat",
+            "contract": "ItemChemistryCat",
+            "category": "memes",
+            "displayName": "Chemistry Cat"
         },{
-            "image": "chocolatebox",
-            "contract": "ItemChocoBox",
-            "category": "valentines",
-            "displayName": "Valentine's Chocolate"
+            "image": "breading",
+            "contract": "ItemBreading",
+            "category": "memes",
+            "displayName": "Bread your Cat"
         },{
-            "image": "iheartu",
-            "contract": "ItemIHeartU",
-            "category": "valentines",
-            "displayName": "I Heart U"
+            "image": "keyboard",
+            "contract": "ItemKeyboard",
+            "category": "memes",
+            "displayName": "Keyboard Cat"
         },{
-            "image": "ethblingblue",
-            "contract": "ItemEthBlingRingBlue",
-            "category": "accessories",
-            "displayName": "ETH Bling Ring"
+            "image": "tinybox",
+            "contract": "ItemTinyBox",
+            "category": "memes",
+            "displayName": "Too Tiny Box"
+        },{
+            "image": "strawberryhat",
+            "contract": "ItemStrawberryHat",
+            "category": "memes",
+            "displayName": "More treats?! Strawberry"
+        },{
+            "image": "pumpkinhat",
+            "contract": "ItemPumpkinHat",
+            "category": "memes",
+            "displayName": "More treats?! Pumpkin"
         }
     ]
 }
