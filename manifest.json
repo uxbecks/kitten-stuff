@@ -5,51 +5,51 @@
         "show": true
     },
     "listing": [
-        {
-            "image": "candyhearts",
-            "contract": "ItemCandyHearts",
-            "category": "valentines",
-            "displayName": "Candy Hearts"
-        },{
-            "image": "heartsbg",
-            "contract": "ItemHeartsBG",
-            "category": "valentines",
-            "displayName": "Surrounded by Love"
-        },{
-            "image": "cucumber",
-            "contract": "ItemCucumber",
-            "category": "memes",
-            "displayName": "Cucumbers Behind Cats"
-        },{
-            "image": "chemistrycat",
-            "contract": "ItemChemistryCat",
-            "category": "memes",
-            "displayName": "Chemistry Cat"
-        },{
-            "image": "breading",
-            "contract": "ItemBreading",
-            "category": "memes",
-            "displayName": "Bread your Cat"
-        },{
-            "image": "keyboard",
-            "contract": "ItemKeyboard",
-            "category": "memes",
-            "displayName": "Keyboard Cat"
-        },{
-            "image": "tinybox",
-            "contract": "ItemTinyBox",
-            "category": "memes",
-            "displayName": "Too Tiny Box"
-        },{
-            "image": "strawberryhat",
-            "contract": "ItemStrawberryHat",
-            "category": "memes",
-            "displayName": "More treats?! Strawberry"
-        },{
-            "image": "pumpkinhat",
-            "contract": "ItemPumpkinHat",
-            "category": "memes",
-            "displayName": "More treats?! Pumpkin"
-        }
+      {
+          "image": "cucumber",
+          "contract": "ItemMemeCucumber",
+          "category": "memes",
+          "displayName": "Cucumbers Behind Cats"
+      },{
+          "image": "chemistrycat",
+          "contract": "ItemMemeScience",
+          "category": "memes",
+          "displayName": "Chemistry Cat"
+      },{
+          "image": "breading",
+          "contract": "ItemMemeBread",
+          "category": "memes",
+          "displayName": "Breading"
+      },{
+          "image": "keyboard",
+          "contract": "ItemMemeKeyboard",
+          "category": "memes",
+          "displayName": "Keyboard Cat"
+      },{
+          "image": "tinybox",
+          "contract": "ItemMemeMaruBox",
+          "category": "memes",
+          "displayName": "Too Tiny Box"
+      },{
+          "image": "strawberryhat",
+          "contract": "ItemMemeStrawberryHat",
+          "category": "memes",
+          "displayName": "More Treats?! Strawberry Hat"
+      },{
+          "image": "pumpkinhat",
+          "contract": "ItemMemePumpkinHat",
+          "category": "memes",
+          "displayName": "More Treats?! Pumpkin Hat"
+      },{
+          "image": "candyhearts",
+          "contract": "ItemValentinesCandyHearts",
+          "category": "valentines",
+          "displayName": "Candy Hearts"
+      },{
+          "image": "heartsbg",
+          "contract": "ItemValentinesHeartsBackground",
+          "category": "valentines",
+          "displayName": "Surrounded by Love"
+      }
     ]
 }
