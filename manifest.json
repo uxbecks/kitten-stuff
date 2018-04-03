@@ -6,6 +6,11 @@
     },
     "listing": [
       {
+          "image": "yarnball",
+          "contract": "ItemYarn",
+          "category": "accessories",
+          "displayName": "Fuzzy Ball of Yarn"
+      },{
           "image": "cucumber",
           "contract": "ItemMemeCucumber",
           "category": "memes",
