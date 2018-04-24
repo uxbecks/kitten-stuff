@@ -15,11 +15,6 @@
           "contract": "ItemMemeCucumber",
           "category": "memes",
           "displayName": "Cucumbers Behind Cats"
-      },,{
-          "image": "ceilingcat",
-          "contract": "ItemMemeCeilingCat",
-          "category": "memes",
-          "displayName": "Ceiling Cat"
       },{
           "image": "chemistrycat",
           "contract": "ItemMemeScience",
