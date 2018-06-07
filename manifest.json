@@ -6,6 +6,41 @@
     },
     "listing": [
       {
+          "image": "butterflytoy",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Spinning Butterfly Toy"
+      },{
+          "image": "eyepatch",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Eyepatch"
+      },{
+          "image": "heartsbg2",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Surrounded by Love 2"
+      },{
+          "image": "pearlnecklace",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Pearl Necklace"
+      },{
+          "image": "piratehat",
+          "contract": "",
+          "category": "hats",
+          "displayName": "Pirate Hat"
+      },{
+          "image": "spikedcuffs",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Spiked Cuffs"
+      },{
+          "image": "starsbg",
+          "contract": "",
+          "category": "accessories",
+          "displayName": "Surrounded by Stars"
+      },{
           "image": "yarnball",
           "contract": "ItemYarn",
           "category": "accessories",
