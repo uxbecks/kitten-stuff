@@ -6,6 +6,16 @@
     },
     "listing": [
       {
+          "image": "goldhalo",
+          "contract": "",
+          "category": "hats",
+          "displayName": "Gold Halo"
+      },{
+          "image": "silverhalo",
+          "contract": "",
+          "category": "hats",
+          "displayName": "Silver Halo"
+      },{
           "image": "butterflytoy",
           "contract": "",
           "category": "accessories",
