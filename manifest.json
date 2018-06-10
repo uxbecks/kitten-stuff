@@ -7,47 +7,47 @@
     "listing": [
       {
           "image": "goldhalo",
-          "contract": "",
+          "contract": "ItemHaloGold",
           "category": "hats",
           "displayName": "Gold Halo"
       },{
           "image": "silverhalo",
-          "contract": "",
+          "contract": "ItemHaloSilver",
           "category": "hats",
           "displayName": "Silver Halo"
       },{
           "image": "butterflytoy",
-          "contract": "",
+          "contract": "ItemButterflyToy",
           "category": "accessories",
           "displayName": "Butterfly Toy"
       },{
           "image": "eyepatch",
-          "contract": "",
+          "contract": "ItemEyepatch",
           "category": "accessories",
           "displayName": "Eyepatch"
       },{
           "image": "heartsbg2",
-          "contract": "",
+          "contract": "ItemHearts2",
           "category": "accessories",
           "displayName": "Surrounded by Love 2"
       },{
           "image": "pearlnecklace",
-          "contract": "",
+          "contract": "ItemPearlNecklace",
           "category": "accessories",
           "displayName": "Pearl Necklace"
       },{
           "image": "piratehat",
-          "contract": "",
+          "contract": "ItemPirateHat",
           "category": "hats",
           "displayName": "Pirate Hat"
       },{
           "image": "spikedcuffs",
-          "contract": "",
+          "contract": "ItemSpikedCuffs",
           "category": "accessories",
           "displayName": "Spiked Cuffs"
       },{
           "image": "starsbg",
-          "contract": "",
+          "contract": "ItemStars",
           "category": "accessories",
           "displayName": "Surrounded by Stars"
       },{
