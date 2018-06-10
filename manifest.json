@@ -7,12 +7,12 @@
     "listing": [
       {
           "image": "goldhalo",
-          "contract": "ItemHaloGold",
+          "contract": "ItemGoldHalo",
           "category": "hats",
           "displayName": "Gold Halo"
       },{
           "image": "silverhalo",
-          "contract": "ItemHaloSilver",
+          "contract": "ItemSilverHalo",
           "category": "hats",
           "displayName": "Silver Halo"
       },{
@@ -27,7 +27,7 @@
           "displayName": "Eyepatch"
       },{
           "image": "heartsbg2",
-          "contract": "ItemHearts2",
+          "contract": "ItemHearts",
           "category": "accessories",
           "displayName": "Surrounded by Love 2"
       },{
