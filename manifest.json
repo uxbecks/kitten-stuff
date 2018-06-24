@@ -37,7 +37,7 @@
           "displayName": "Soccer Glasses with Vuvuzela"
       },{
           "image": "toomanyvuzes",
-          "contract": "ItemVuvuzelas",
+          "contract": "ItemTooManyVuvus",
           "category": "worldcup",
           "displayName": "Too many Vuvuzelas!"
       },{
