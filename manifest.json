@@ -12,12 +12,12 @@
           "displayName": "Confetti"
       },{
           "image": "soccerhatgreenblueyellow",
-          "contract": "ItemSoccerHatGreen",
+          "contract": "ItemSoccerBullhorn1",
           "category": "worldcup",
           "displayName": "Soccer Bullhorn Hat 1"
       },{
           "image": "soccerhatredwhiteblue",
-          "contract": "ItemSoccerHatRed",
+          "contract": "ItemSoccerBullhorn2",
           "category": "worldcup",
           "displayName": "Soccer Bullhorn Hat 2"
       },{
