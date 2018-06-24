@@ -27,7 +27,7 @@
           "displayName": "Soccerball"
       },{
           "image": "oversizesoccerglasses",
-          "contract": "ItemOversizedGlasses",
+          "contract": "ItemOversizeSoccerGlasses",
           "category": "worldcup",
           "displayName": "Oversized Soccer Glasses"
       },{
