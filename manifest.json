@@ -6,6 +6,32 @@
     },
     "listing": [
       {
+          "image": "bowlerhat",
+          "contract": "ItemBowlerHat",
+          "category": "hats",
+          "displayName": "Bowler Hat"
+      },{
+          "image": "cateyeglasses",
+          "contract": "ItemCatEyeGlasses",
+          "category": "glasses",
+          "displayName": "Cateye Glasses"
+      },{
+          "image": "fez",
+          "contract": "ItemFez",
+          "category": "hats",
+          "displayName": "Fez"
+      },{
+          "image": "rosecolorglasses",
+          "contract": "ItemRoseGlasses",
+          "category": "glasses",
+          "displayName": "Rose-Colored Glasses"
+      },{
+          "image": "scarf_redyellow",
+          "contract": "ItemScarfRedYellow",
+          "category": "accessories",
+          "displayName": "Fall Scarf"
+      },
+        {
           "image": "confetti",
           "contract": "ItemConfetti",
           "category": "worldcup",
